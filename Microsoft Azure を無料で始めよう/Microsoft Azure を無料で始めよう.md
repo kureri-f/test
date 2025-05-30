@@ -49,7 +49,7 @@ MicrosoftアカウントまたはGitHubアカウントでサインインしま�
   
 ![alt text](image/09.png)  
   
-## 3. Azure 無料アカウントで利用できるサービス
+## 2. Azure 無料アカウントで利用できるサービス
 Azureの無料枠には、主に3つの種類があります。  
 - 常時無料で利用できるもの
 - 12か月間無料で提供されるもの
@@ -95,7 +95,7 @@ Azure無料アカウントの試用期間は **30日間**です。
   
 [Azure無料アカウントまたはAzure for Students Starterアカウントをアップグレードする](https://learn.microsoft.com/ja-jp/azure/cost-management-billing/manage/upgrade-azure-subscription)
   
-## 4. まとめ
+## まとめ
 このように、Misrosoftアカウント(またはGitHubアカウント)、電話番号、クレジットカードがあれば無料で簡単にAzureを始められることがわかりました。  
 また、Azure Portalでは無料のサービスを確認することができます。  
 Azure Portalにサインインし、検索欄に「**無料サービス**」と入力すると表示される「無料サービス」を選択すると、**Azureが提供する無料枠のサービス一覧**が表示されますので、こちらで確認ができます。  
